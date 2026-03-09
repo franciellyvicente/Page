@@ -1,33 +1,74 @@
-Formulário de Cadastro
+📋 Formulário de Cadastro
 
-Este projeto apresenta um exemplo de formulário de cadastro desenvolvido com HTML5, CSS3 e JavaScript, oferecendo uma estrutura simples, mas completa, para integração em sites.
-O formulário inclui campos obrigatórios para Nome, Sobrenome, E-mail, Senha e Confirmação de Senha, garantindo que todos os dados essenciais sejam preenchidos corretamente antes do envio.
+Este projeto apresenta um formulário de cadastro desenvolvido com HTML5, CSS3 e JavaScript, com o objetivo de demonstrar a criação de formulários interativos e a aplicação de validações básicas no front-end.
 
-Além disso, há uma caixa de seleção de gênero, com as seguintes opções:
+A interface foi projetada para ser simples, clara e funcional, permitindo a coleta de informações essenciais do usuário de forma organizada e intuitiva.
 
--Mulher
--Homem
--Outros
--Prefiro não informar
+🧾 Campos do Formulário
 
-Todos os campos possuem validação de entrada, com limites de caracteres mínimos e máximos, tanto para letras quanto para números.
-O script em JavaScript realiza a verificação de correspondência entre os campos de senha e confirmação de senha, evitando erros de preenchimento e contribuindo para a integridade dos dados no frontend e no backend.
+O formulário inclui os seguintes campos obrigatórios:
 
-.Tecnologias Utilizadas:
+Nome
 
--HTML5 → estrutura do formulário
--CSS3 → estilização e layout responsivo
--JavaScript → validação dos campos e lógica de verificação de senha
+Sobrenome
 
-.Funcionalidades:
+E-mail
 
--Campos obrigatórios com validação
--Verificação de correspondência entre senha e confirmação
--Limite mínimo e máximo de caracteres
--Seleção de gênero com múltiplas opções
--Interface simples, clara e responsiva
+Senha
 
-*Licença*
+Confirmação de senha
 
-Este projeto é de uso livre e pode ser adaptado conforme a necessidade.
-Sinta-se à vontade para contribuir com melhorias e sugestões!
+Também inclui uma seleção de gênero com as opções:
+
+Mulher
+
+Homem
+
+Outros
+
+Prefiro não informar
+
+Todos os campos possuem validações de entrada, garantindo que os dados sejam preenchidos corretamente antes do envio.
+
+⚙️ Validações Implementadas
+
+O projeto utiliza JavaScript para validação básica dos dados, incluindo:
+
+Verificação de campos obrigatórios
+
+Limite mínimo e máximo de caracteres
+
+Validação de dados digitados pelo usuário
+
+Verificação de correspondência entre senha e confirmação de senha
+
+Essas validações ajudam a evitar erros de preenchimento e contribuem para a integridade dos dados antes do envio ao back-end.
+
+🛠️ Tecnologias Utilizadas
+
+HTML5 → Estrutura e semântica do formulário
+
+CSS3 → Estilização e organização do layout
+
+JavaScript → Validação dos campos e lógica de verificação de senha
+
+✨ Funcionalidades
+
+Campos obrigatórios com validação
+
+Verificação entre senha e confirmação de senha
+
+Limite mínimo e máximo de caracteres
+
+Seleção de gênero com múltiplas opções
+
+Interface simples, clara e responsiva
+
+📄 Licença
+
+Este projeto é de uso livre para fins educacionais e de estudo.
+Sinta-se à vontade para adaptar, melhorar ou utilizar como base para novos projetos.
+
+👩‍💻 Autora
+
+Francielly Vicente
